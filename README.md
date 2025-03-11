@@ -89,6 +89,18 @@ This project uses an **ESP8266 D1 Mini** with **WLED** firmware to control a **W
 ### Wiring Diagram
 <img width="647" alt="WLED Wiring Diagram" src="https://github.com/user-attachments/assets/2baa67e3-dd93-4337-8142-be4f797d691a" />
 
+### Buttons
+![Fish tank Buttons](https://github.com/user-attachments/assets/75c9f72b-13c9-4b54-8c17-c81b924be908)
+
+### ESP8266 
+![Fish tank ESP](https://github.com/user-attachments/assets/4ac3930f-f49e-4686-83aa-d70821c837d2)
+
+### Lights On
+![Fish tank Lights On](https://github.com/user-attachments/assets/f0ceb648-1290-43c4-a621-f070bbe7dfc1)
+
+### Lights Off
+![Fish tank Lights Off](https://github.com/user-attachments/assets/c2640125-51be-4bc5-aa0f-4ce4a480f5f6)
+
 
 
 
